@@ -13,6 +13,7 @@ I am a Master's student (M1) specializing in financial engineering at ESILV. Pas
 
 - **Human Emotions Analysis in Markets:** A research project in collaboration with my school's researchers that leverages sentiment indicators to identify correlations between investor emotions and market movements.
 - **Options Pricing Project:** A project implemented in C++ that focuses on modeling pricing for European vanilla options and path-dependent options using various pricing methods such as Black-Scholes and the Cox-Ross-Rubinstein model.
+- **Electricity Price Analysis Project:** A machine learning project leveraging statistical and predictive models to explain and forecast electricity price fluctuations based on market data and external factors.
 - **TransConnect:** A transportation management project featuring advanced functionalities for real-time route calculation and order management.
 
 ## 📫 Get in Touch
